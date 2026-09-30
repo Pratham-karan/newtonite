@@ -1,0 +1,11 @@
+{
+  "name": "newtonite-operations",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Newtonite Operations Management System",
+  "scripts": {
+    "start:backend": "npm --prefix backend run dev",
+    "start:frontend": "npm --prefix frontend run dev",
+    "test": "npm --prefix backend test"
+  }
+}
